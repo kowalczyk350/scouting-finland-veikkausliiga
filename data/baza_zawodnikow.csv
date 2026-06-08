@@ -1,16 +1,11 @@
-name,club,position,age,speed,dribbling,strength,decisions
-Topi Keskinen,HJK,Winger,23,9,8,6,7
-Pyry Soiri,HJK,Wingback,29,8,7,7,7
-Santeri Hostikka,HJK,AM,27,8,8,6,8
-Lucas Lingman,HJK,CM,27,7,8,6,9
-Miro Tenho,HJK,CB,29,6,5,9,7
-Nikolai Alho,HJK,Wingback,32,9,7,7,7
-Benjamin Källman,Cracovia,ST,27,8,7,7,7
-Urho Nissilä,Suwon,AM,28,7,8,6,8
-Eetu Vertainen,St Pat's,ST,25,8,7,7,6
-Leo Väisänen,Austin FC,CB,27,6,5,8,7
-speed
-technique
-physical
-decision_making
-rating
+id,name,club,position,age,speed,dribbling,strength,decisions
+1,Topi Keskinen,HJK,Winger,23,9,8,6,7
+2,Pyry Soiri,HJK,Wingback,29,8,7,7,7
+3,Santeri Hostikka,HJK,AM,27,8,8,6,8
+4,Lucas Lingman,HJK,CM,27,7,8,6,9
+5,Miro Tenho,HJK,CB,29,6,5,9,7
+6,Nikolai Alho,HJK,Wingback,32,9,7,7,7
+7,Benjamin Källman,Cracovia,ST,27,8,7,7,7
+8,Urho Nissilä,Suwon,AM,28,7,8,6,8
+9,Eetu Vertainen,St Pat's,ST,25,8,7,7,6
+10,Leo Väisänen,Austin FC,CB,27,6,5,8,7
