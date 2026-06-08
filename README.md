@@ -1,15 +1,32 @@
-# Raport Skautingowy: Otto Ruoppi
+# Skauting i Obserwacja - Ligi Fińskie
 
-## 1. Dane Podstawowe
-* **Zawodnik:** Otto Ruoppi
-* **Klub:** KuPS (Finlandia)
-* **Pozycja:** Środkowy / Ofensywny Pomocnik
-* **Wiek:** 22 lata (Rocznik 2004)
-* **Szacowana Wartość:** ok. 500k - 600k EUR (w zasięgu klubów Ekstraklasy)
+Projekt poświęcony analizie danych oraz obserwacji zawodników występujących w fińskich ligach piłkarskich (głównie Veikkausliiga).
 
-## 2. Profil Zawodnika (Fizyczność i Technika)
-* **Atuty Techniczne:** Doskonałe podanie prostopadłe, wizja gry, wysoka skuteczność w kreowaniu szans (czołówka asystentów ligi), umiejętność utrzymania się przy piłce pod presją.
-* **Atuty Fizyczne:** Bardzo dobra dynamika i intensywność pracy w środku pola. Zawodnik potrafi grać na dużym zmęczeniu, dobrze znosi fizyczną walkę bark w bark.
+## 1. Kryteria Skautingowe (Target)
+* **Wiek:** 22-23 lata.
+* **Profil:** Zawodnicy o wyróżniających się parametrach fizycznych (dynamika, siła), połączonych z doskonałym wyszkoleniem technicznym.
+* **Finanse:** Zawodnicy z kończącymi się kontraktami lub w zasięgu finansowym klubów Ekstraklasy / 1. Ligi.
 
-## 3. Rekomendacja Skautingowa
-Zawodnik idealnie pasujący do profilu "Modern 8/10" (nowoczesna ósemka lub dziesiątka). Z uwagi na twardy charakter ligi fińskiej, jest gotowy do wejścia w fizyczne realia polskiej ligi, dając jednocześnie ekstraklasową jakość w rozegraniu piłki. Do obserwacji pod kątem letniego/zimowego okienka transferowego.
+## 2. Struktura Projektu (Katalogi)
+* `/dane` — arkusze CSV, pliki z danymi statystycznymi pobranymi z agregatorów (np. FBref, Transfermarkt).
+* `/raporty` — szczegółowe, indywidualne raporty skautingowe tworzone dla poszczególnych zawodników.
+* `/skrypty` — skrypty i narzędzia (np. Python, Excel) służące do filtrowania i wizualizacji danych.
+* `/wizualizacje` — wykresy, radary cech zawodników oraz mapy aktywności boiskowej.
+
+---
+
+## 3. Aktywny Raport Skautingowy: Topi Keskinen
+
+### Dane Podstawowe
+* **Zawodnik:** Topi Keskinen
+* **Klub:** HJK Helsinki (Finlandia)
+* **Pozycja:** Skrzydłowy / Lewy Napastnik
+* **Wiek:** 23 lata (Rocznik 2003)
+* **Status:** Kluczowy gracz formacji ofensywnej, gotowy do transferu zagranicznego.
+
+### Profil Zawodnika (Fizyczność i Technika)
+* **Atuty Fizyczne:** Ekstremalna dynamika, niesamowite przyspieszenie na pierwszych metrach oraz wysoka wytrzymałość (potrafi biegać na pełnej intensywności przez 90 minut).
+* **Atuty Techniczne:** Bardzo dobry drybling przy dużej prędkości, łatwość wchodzenia w pojedynki 1v1, wysoka powtarzalność przy dośrodkowaniach i strzałach po zejściu do środka.
+
+### Rekomendacja Skautingowa
+Keskinen to idealny kandydat na nowoczesnego skrzydłowego dla silnego klubu Ekstraklasy. Jego profil motoryczny gwarantuje, że nie "odbije się" od fizycznej gry w Polsce, a technika pozwala mu robić różnicę w fazie przejściowej (kontrataki). Rekomendacja: Ścisła obserwacja i przygotowanie oferty.
