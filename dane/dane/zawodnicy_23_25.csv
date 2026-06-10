@@ -1,4 +1,5 @@
-name,position,age,nationality,contract_end,market_value
-Tuomas Kaukua,Prawy napastnik,25,Finlandia,2026-12-31,150000
-Sami Sipola,Prawy obrońca,24,Finlandia,2026-12-31,50000
-Sampo Ala-Iso,Środkowy obrońca,23,Finlandia,2026-12-31,
+zawodnik,klub,pozycja,wiek,narodowość,koniec_kontraktu,wartość_rynkowa
+Tuomas Kaukua,AC Oulu,Prawy napastnik,25,Finlandia,2026-12-31,150000
+Sami Sipola,AC Oulu,Prawy obrońca,24,Finlandia,2026-12-31,50000
+Sampo Ala-Iso,AC Oulu,Środkowy obrońca,23,Finlandia,2026-12-31,
+
